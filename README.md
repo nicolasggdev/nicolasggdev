@@ -1,4 +1,4 @@
-# ¡Hi Everyone! I'm Nicolas Gonzalez G, I'm web developer 👋
+# ¡Hi Everyone! I'm Nicolas Gonzalez G 👋
 
 Welcome to my Github profile. I am a student with a lot of passion for programming. I am a person who likes to be always learning and achieving goals. Although my profile is Full Stack Web Developer, I have a strong backend orientation and that is where I have more experience.
 
