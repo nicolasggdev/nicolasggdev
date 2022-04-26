@@ -24,7 +24,7 @@ Welcome to my Github profile. I am a student with a lot of passion for programmi
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />   
 </div>
 
-### Sigamos en contacto 📲
+### Let's keep in touch 📲
 
 - LinkedIn: [https://www.linkedin.com/in/nicolasggdev/](https://www.linkedin.com/in/nicolasggdev/)
 - E-mail: nicolasggdev@gmail.com
