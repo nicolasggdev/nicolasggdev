@@ -6,8 +6,6 @@ Welcome to my Github profile. I am a student with a lot of passion for programmi
 
 - 🐱‍🏍 Always I try to improve my JavaScript
 
-- 🐍 I'm currently learning Python.
-
 - 🧠 The most important thing is that I never stop learning.
 
 ### My Skills
