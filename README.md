@@ -1,10 +1,10 @@
 # ¡Hi Everyone! I'm Nicolas Gonzalez G 👋
 
-Welcome to my Github profile. I am a student with a lot of passion for programming. I am a person who likes to be always learning and achieving goals. Although my profile is Full Stack Web Developer, I have a strong backend orientation and that is where I have more experience.
+Welcome to my Github profile. I am a person with a lot of passion for programming, I like to be always learning and achieving goals. Although my profile is Full Stack Web Developer, I have a strong backend orientation and that's where I have more experience.
 
-- 📌 I'm looking to collaborate on Backend Projects.
+- 📌 I am always looking to collaborate on projects.
 
-- 🐱‍🏍 Always I try to improve my JavaScript
+- 🐱‍🏍 Always I try to improve my code and JavaScript.
 
 - 🧠 The most important thing is that I never stop learning.
 
